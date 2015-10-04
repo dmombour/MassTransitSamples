@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitv2.Samples.PubSub", "MassTransitv2.Samples.PubSub\MassTransitv2.Samples.PubSub.csproj", "{EA100F4F-71FD-443F-B211-4E76817E5B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitv3.Samples.PubSub", "MassTransitv3.Samples.PubSub\MassTransitv3.Samples.PubSub.csproj", "{9EE51F46-FBFE-41B0-9F84-4E7A47BA4048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA100F4F-71FD-443F-B211-4E76817E5B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA100F4F-71FD-443F-B211-4E76817E5B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA100F4F-71FD-443F-B211-4E76817E5B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA100F4F-71FD-443F-B211-4E76817E5B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE51F46-FBFE-41B0-9F84-4E7A47BA4048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE51F46-FBFE-41B0-9F84-4E7A47BA4048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE51F46-FBFE-41B0-9F84-4E7A47BA4048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE51F46-FBFE-41B0-9F84-4E7A47BA4048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
